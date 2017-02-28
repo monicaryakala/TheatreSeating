@@ -1,0 +1,48 @@
+Enter the number of Rows
+5
+Enter number of  Sections in 1th row.
+2
+Enter size of each section seperated by space.Then hit 'Enter' To add next row
+6 6
+Enter number of  Sections in 2th row.
+4
+Enter size of each section seperated by space.Then hit 'Enter' To add next row
+3 5 5 3
+Enter number of  Sections in 3th row.
+4
+Enter size of each section seperated by space.Then hit 'Enter' To add next row
+4 6 6 4
+Enter number of  Sections in 4th row.
+4
+Enter size of each section seperated by space.Then hit 'Enter' To add next row
+2 8 8 2
+Enter number of  Sections in 5th row.
+2
+Enter size of each section seperated by space.Then hit 'Enter' To add next row
+6 6
+============Theater Layout==========
+[6, 6]
+[3, 5, 5, 3]
+[4, 6, 6, 4]
+[2, 8, 8, 2]
+[6, 6]
+Enter number of Reservations
+8
+Enter current Resevration.Hit enter to Enter next Reservation.
+smith 2
+jones 5
+davis 6
+wilson 100
+johnson 3
+william 4
+brown 8
+miller 12
+ smith Row 1 Section 1
+ jones Row 1 Section 2
+ davis Row 3 Section 2
+ wilson sorry! we cannot handle a request of your size
+ johnson Row 1 Section 1
+ william Row 2 Section 2
+ brown Row 4 Section 2
+ miller you will have to call for split
+===========================================================
