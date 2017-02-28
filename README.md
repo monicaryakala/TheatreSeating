@@ -12,7 +12,7 @@ Input:
 1. The system expects the user to give the number of rows in the theatre. Then number of sections per each row, followed by the section size i.e number of seats in each section separated by space.
 
 Sample i/p:
-=========================================================================================================================================
+=======================================================================================================================================
 Enter the number of Rows
 5
 Enter number of  Sections in 1th row.
@@ -39,8 +39,4 @@ Enter size of each section seperated by space.Then hit 'Enter' To add next row
 2. Enter the total number of reservations.
 3. Enter the name of the patron followed by the number of seats to be reserved .Simialrly, enter all the reservations.
  
-Example: Enter total number of reservations: 2
-                  Enter the name and number of seats to be reserved : smith 2
-                                                                                                                 miller 48
-=========================================================================================================================================
-For a better perspective , you can refer to the sample input output.txt file present in the zip.file.
+For a better perspective , you can refer to the sample input output.txt file.
